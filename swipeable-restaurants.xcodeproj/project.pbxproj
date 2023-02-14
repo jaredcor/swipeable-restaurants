@@ -11,6 +11,7 @@
 		873123A9299C1FE30085936B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 873123A8299C1FE30085936B /* ContentView.swift */; };
 		873123AB299C1FE50085936B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 873123AA299C1FE50085936B /* Assets.xcassets */; };
 		873123AE299C1FE50085936B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 873123AD299C1FE50085936B /* Preview Assets.xcassets */; };
+		873123B5299C20200085936B /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 873123B4299C20200085936B /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		873123A8299C1FE30085936B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		873123AA299C1FE50085936B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		873123AD299C1FE50085936B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		873123B4299C20200085936B /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				873123A6299C1FE30085936B /* swipeable_restaurantsApp.swift */,
 				873123A8299C1FE30085936B /* ContentView.swift */,
+				873123B4299C20200085936B /* CardView.swift */,
 				873123AA299C1FE50085936B /* Assets.xcassets */,
 				873123AC299C1FE50085936B /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				873123A9299C1FE30085936B /* ContentView.swift in Sources */,
+				873123B5299C20200085936B /* CardView.swift in Sources */,
 				873123A7299C1FE30085936B /* swipeable_restaurantsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
